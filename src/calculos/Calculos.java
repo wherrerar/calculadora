@@ -22,9 +22,11 @@ public class Calculos {
         System.out.println("Ingresa Valor 2: ");
     int Valor2 = in.nextInt();
     
-    int Resultado = Valor1+Valor2;
+    int Suma = Valor1+Valor2;
+        int Resta = Valor1-valor2
     
-        System.out.println("El Resultado de la suma es: " + Resultado);
+        System.out.println("El Resultado de la suma es: " + Suma);
+        System.out.println("El Resultado de la resta es: " + Resta);
     
     }
     
